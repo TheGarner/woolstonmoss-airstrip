@@ -1,0 +1,14 @@
+# Woolston Moss (Warrington) Airstrip
+
+Woolston Moss (Warrington) Airstrip is private airstrip located near Warrington (United Kingdom). This download will allow the airfield to be selectable on the map. It includes runway markings, parkinng, windsocks, static objects and more.
+
+Use the code WOL to be able to locate the airport on the Microsoft Flight Simulator map.
+
+### Installation Steps
+
+Unzip the file "airport-khf-strip.zip" to your Microsoft Flight Simulator installation directory under the "Community" folder. 
+
+
+### Version Changelog
+v1.0
+* Basic airfield setup with runway markings, 3x parking stands, static aircract and other objects and windsocks.
