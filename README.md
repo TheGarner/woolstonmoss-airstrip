@@ -6,7 +6,7 @@ Use the code WOL to be able to locate the airport on the Microsoft Flight Simula
 
 ### Installation Steps
 
-Unzip the file "airport-khf-strip.zip" to your Microsoft Flight Simulator installation directory under the "Community" folder. 
+Unzip the file "thegarner-woolstonmoss-airstrip.zip" to your Microsoft Flight Simulator installation directory under the "Community" folder. 
 
 
 ### Version Changelog
