@@ -11,4 +11,4 @@ Unzip the file "thegarner-woolstonmoss-airstrip.zip" to your Microsoft Flight Si
 
 ### Version Changelog
 v1.0
-* Basic airfield setup with runway markings, 3x parking stands, static aircract and other objects and windsocks.
+* Basic airfield setup with runway markings, muliple building objects,3x parking stands, static aircraft, static cars and windsocks.
